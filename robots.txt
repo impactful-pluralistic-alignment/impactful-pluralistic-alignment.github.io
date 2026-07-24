@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://impactful-pluralistic-alignment.github.io/sitemap.xml
